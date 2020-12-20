@@ -30,7 +30,7 @@ The board is interactive. To play:
 
 ## Animated Solve
 
-Using main.py (naive backtracking):
+Using main.py (naive backtracking):  
 ![](img/main_solve.gif)
 
 Using fast_main.py (keeps track of three boards in memory):
